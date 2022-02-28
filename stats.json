@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-99c1f4fdd5ee168840cb.js",
+      "component---src-pages-index-js-99c1f4fdd5ee168840cb.js.map"
+    ],
+    "path---": [
+      "path----9bfba4dd679745621cca.js",
+      "path----9bfba4dd679745621cca.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e636e242775270b877ad.js",
+      "component---src-layouts-index-js-e636e242775270b877ad.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-resume-js": [
+      "component---src-pages-resume-js-9ba0350c5315d8b11e05.js",
+      "component---src-pages-resume-js-9ba0350c5315d8b11e05.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-c2943ac1320de8929dbd.js",
+      "build-js-styles.css",
+      "commons-c2943ac1320de8929dbd.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---resume": [
+      "path---resume-a0e39f21c11f6a62c5ab.js",
+      "path---resume-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-6cadf559e71bf65e1ed6.js",
+      "component---src-pages-page-2-js-6cadf559e71bf65e1ed6.js.map"
+    ],
+    "app": [
+      "app-b68b23f5fc33157356f2.js",
+      "build-js-styles.css",
+      "app-b68b23f5fc33157356f2.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
